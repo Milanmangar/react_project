@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi&display=swap');
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css');
+
+.avatar-style img{
+  width: 200px;
+  height: 200px;
+}
+
+.main-page{
+  font-family: 'Gugi', cursive;
+  width: 90%;
+  height: 100yh;
+  margin: auto;
+}
+
+.main-page h1{
+  margin: 0;
+  padding: 20px 0;
+  text-align: center;
+
+}
+
+.button-s {
+  padding: 10px;
+  margin:20px;
+  background-color: #4CAF50;
+  border-radius: 7px;
+  border-style: none;
+}
+.button-div{
+  text-align: center;
+}
